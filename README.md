@@ -1,4 +1,10 @@
-# Composer-enabled Drupal template
+# Sully Is Magic is no longer available on Pantheon; It is live on [The original site](https://www.sullyismagic.com).
+# The repository, which is deployed via cPanel, is [here](https://github.com/jmzager0110/Sullys-Website).
+
+# For my Reboot Magic project, featuring his baby brother Calvin, is on Pantheon [here](https://dev-sullysreboot2022magic.pantheonsite.io/).
+#No repository is stored here at this time.
+
+###########################################################################################################
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
 that work with the Platform's Integrated Composer build process. It is also the
